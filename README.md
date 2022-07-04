@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 <p>
-  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Android and iOS. 🚀<br/>
-  Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  Hello, I'm Jeong Yonggyu, Senior Sophister of Computer Engineering, TECH UNIVERSITY OF KOREA  ✨<br/><br/>
+  I want to be a 'back-end developer'.<br/>
+  I'm currently developing Java Web and Android apps!<br/>
+  I'm currently working as a backend developer for the startup company Charlie Company!<br/>
+  I'm currently developing an application called 'me sale' as a service goal at the end of August.<br/><br/>
 </p>
 
 ### 💪 Skills
