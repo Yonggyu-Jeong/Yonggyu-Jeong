@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-  Hello, I'm Jeong Yonggyu, Senior Sophister of Computer Engineering, TECH UNIVERSITY OF KOREA  ✨<br/><br/>
+  Hello, I'm Jeong Yonggyu, Senior Sophister of Computer Engineering, TECH UNIVERSITY OF KOREA  ✨<br/>
   I want to be a 'back-end developer'.<br/>
   I'm currently developing Java Web and Android apps!<br/>
   I'm currently working as a backend developer for the startup company Charlie Company!<br/>
